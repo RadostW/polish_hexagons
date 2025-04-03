@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load the CSV file
-df = pd.read_csv("optimized_assigned_hexagons_iteration_1.csv")
-#df = pd.read_csv("optimized_assigned_hexagons_manual.csv")
+#df = pd.read_csv("assigned_hexagons.csv")
+df = pd.read_csv("optimized_assigned_hexagons.csv")
 
 # Create the plot
 plt.figure(figsize=(10, 10))
