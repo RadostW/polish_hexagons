@@ -19,4 +19,10 @@ Click the links below to view each file interactively on [geojson.io](https://ge
 
 ---
 
+## License
+
+GeoJSON shared under [CC-BY license](https://creativecommons.org/licenses/by/4.0/).
+
+---
+
 Copyright Radost Waszkiewicz (2025)
